@@ -1,4 +1,5 @@
 {
   "//": "Value is unityads or admob.",
-  "ads": "unityads"
+  "ads": "admob",
+  "defaultTheme": "dark"
 }
